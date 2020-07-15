@@ -8,7 +8,6 @@ Where to reach me:
  - Homepage: [shelsoloa.com](http://shelsoloa.com)
  - Email: [shel@shelsoloa.com](mailto:shel@shelsoloa.com)
  - Twitter: [@shelsoloa](http://twitter.com/shelsoloa)
- - Instagram: [@shelsoloa](http://instagram.com/shelsoloa)
 
 
 <!--
