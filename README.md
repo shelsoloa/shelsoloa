@@ -1,8 +1,8 @@
-### Hi there 👋
+### Ayo!
 
+I'm Shel Soloa
 
-I'm currently working on __Gabzebo Interactive Media__
-
+Currently working on __Gabzebo Interactive Media__ and getting Google ACE certified
 
 Where to reach me:
  - Homepage: [shelsoloa.com](http://shelsoloa.com)
