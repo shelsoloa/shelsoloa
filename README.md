@@ -4,7 +4,7 @@ I'm Shel Soloa.
 
 Currently working at __Gabzebo Interactive Media__ and getting Google ACE certified on the side.
 
-Open and actively seeking to new opportunities
+Open and actively seeking new opportunities
 
 Hit me up at:
  - My website: [shelsoloa.com](http://shelsoloa.com)
