@@ -8,7 +8,7 @@ Open and actively seeking new opportunities
 
 Hit me up at:
  - My website: [shelsoloa.com](http://shelsoloa.com)
- - Email: [shel@shelsoloa.com](mailto:shel@shelsoloa.com)
+ - Email: [me@shelsoloa.com](mailto:me@shelsoloa.com)
  - Twitter: [@shelsoloa](http://twitter.com/shelsoloa)
  
 🐻
