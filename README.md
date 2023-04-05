@@ -2,8 +2,6 @@
 
 I'm Shel Soloa.
 
-Currently working at __Yelp__
-
 Hit me up at:
  - My website: [shelsoloa.com](http://shelsoloa.com)
  - Email: [me@shelsoloa.com](mailto:me@shelsoloa.com)
