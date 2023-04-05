@@ -7,7 +7,6 @@ Hit me up at:
  - Email: [me@shelsoloa.com](mailto:me@shelsoloa.com)
  - Twitter: [@shelsoloa](http://twitter.com/shelsoloa)
  
-🐻
 
 <!--
 **shelsoloa/shelsoloa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
