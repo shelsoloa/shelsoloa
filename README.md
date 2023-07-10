@@ -1,12 +1,17 @@
-### Heyo!
+### Yo!
 
-I'm Shel Soloa.
+I'm Sheldon Soloa, a software engineer from Toronto.
 
-Hit me up at:
- - My website: [shelsoloa.com](http://shelsoloa.com)
- - Email: [me@shelsoloa.com](mailto:me@shelsoloa.com)
- - Twitter: [@shelsoloa](http://twitter.com/shelsoloa)
- 
+I'm currently planning a trip around the US to find a new place to call home.
+
+To anyone in NYC, DC, Atlanta, Austin, or the Bay... see you in the Fall/Winter 🤙🏾
+
+You can reach me over at:
+ - my blog: [shelsoloa.com](http://shelsoloa.com)
+ - my twitter: [@shelsoloa](http://twitter.com/shelsoloa)
+ - my email: [shel@shelsoloa.com](mailto:shel@shelsoloa.com).
+
+~ Shel
 
 <!--
 **shelsoloa/shelsoloa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
