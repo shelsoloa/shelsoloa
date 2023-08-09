@@ -2,9 +2,9 @@
 
 I'm Sheldon Soloa, a software engineer from Toronto.
 
-I'm currently planning a trip around the US to find a new place to call home.
+I'm currently building [PromoDispensary](https://promodispensary.com).
 
-To anyone in NYC, DC, Atlanta, Austin, or the Bay... see you in the Fall/Winter 🤙🏾
+To anyone in Atlanta, or the Bay... see you in the Fall/Winter 🤙🏾
 
 You can reach me over at:
  - my blog: [shelsoloa.com](http://shelsoloa.com)
