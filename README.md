@@ -2,7 +2,7 @@
 
 I'm Sheldon Soloa, a software engineer from Toronto.
 
-I'm currently building [PromoDispensary](https://promodispensary.com).
+Currently building [PromoDispensary](https://promodispensary.com).
 
 To anyone in Atlanta or the Bay... see you in the Fall/Winter 🤙🏾
 
