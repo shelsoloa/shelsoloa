@@ -4,12 +4,9 @@ I'm Sheldon Soloa, a software engineer from Toronto.
 
 Currently building [PromoDispensary](https://promodispensary.com).
 
-To anyone in Atlanta or the Bay... see you in the Fall/Winter 🤙🏾
-
-You can reach me over at:
- - my blog: [shelsoloa.com](http://shelsoloa.com)
- - my twitter: [@shelsoloa](http://twitter.com/shelsoloa)
- - my email: [shel@shelsoloa.com](mailto:shel@shelsoloa.com).
+ - email: [shel@shelsoloa.com](mailto:shel@shelsoloa.com).
+ - blog: [shelsoloa.com](http://shelsoloa.com)
+ - twitter: [@shelsoloa](http://twitter.com/shelsoloa)
 
 ~ Shel
 
