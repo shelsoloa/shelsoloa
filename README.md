@@ -1,5 +1,5 @@
 - Lead Software Eng @ [OtO](https://otolawn.com)
-- Founder @ [PromoDispensary](https://promodispensary.com)
+- Founder @ [PromoExchange](https://promoexchange.io)
 - Lead @ [Gabzebo](https://gabzebo.com)
 - ex-yelp
 - ex-gamedev
