@@ -1,6 +1,6 @@
 - Lead Software Eng @ [OtO](https://otolawn.com)
 - Founder @ [PromoExchange](https://promoexchange.io)
-- Lead @ [Gabzebo](https://gabzebo.com)
+- CTO @ [Gabzebo](https://gabzebo.com)
 - ex-yelp
 - ex-gamedev
 
